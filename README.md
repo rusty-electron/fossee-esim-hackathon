@@ -22,11 +22,11 @@ In Gilbert Cell multiplier, we send the tail current I1 through a differential p
 The values of the neurons and weights can be fed as analog voltage at V1 and V2 resp. and the result can be added to a bias value using an adder circuit.
 
 The other possible applications of this circuit are:
-    * variable gain amplifier
-    * automatic gain control circuits
-    * balanced modulator
-    * frequency mixer
-    * phase detector
+* variable gain amplifier
+* automatic gain control circuits
+* balanced modulator
+* frequency mixer
+* phase detector
 
 ### Note regarding the plot
 The plot submitted in the literature review report showed the graph of Iout/Vout plotted against V1 for various values of V2, it is not possible to draw a plot that involves three different axes in ngspice so in my final report I have submitted two plots where two sine waves of different amplitude and frequency are multipied with each other using the gilbert cell.
