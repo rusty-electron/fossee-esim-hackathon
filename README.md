@@ -1,5 +1,5 @@
-# fossee-esim-hackathon
-my submission for the [eSim hackathon](https://hackathon.fossee.in/esim/) organized by FOSSEE, IIT Bombay
+# FOSSEE eSim Hackathon
+My submission for the [eSim Hackathon](https://hackathon.fossee.in/esim/) organized by FOSSEE, IIT Bombay
 
 ## Analog Circuit-Block for designing an ANN - Gilbert cell-based Multiplier
 Test platform: Linux Mint x86_64 kernel 5.4.0
